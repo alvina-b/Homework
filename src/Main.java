@@ -61,7 +61,6 @@ public class Main {
             System.out.println("Потребуется дней более: " + deliveryTime2);
         }
 
-
         //Задание 5
         System.out.println("  Задание 5");
 
